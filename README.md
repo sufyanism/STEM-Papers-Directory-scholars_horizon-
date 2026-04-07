@@ -39,11 +39,11 @@ Getting Started
 4. Run flutter run
 
 ## Future Improvements
-• Dark mode
-• Bookmark papers
-• Advanced filters
-• AI-based summarization
-• PDF viewer
+- Dark mode
+- Bookmark papers
+- Advanced filters
+- AI-based summarization
+- PDF viewer
 
 ## About Me 
 ✨ I’m **Sufyan bin Uzayr**, an open-source developer passionate about building and sharing meaningful projects.
