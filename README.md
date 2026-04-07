@@ -3,22 +3,22 @@
 ## Overview
 A modern Flutter application to explore Biology research papers from arXiv with a clean UI, smart search, and multi-category filtering.
 Features
-• Biology-first approach using arXiv Quantitative Biology (q-bio)
-• Multi-select category filtering using checkboxes
-• Smart search by author, title, keywords, and subject
-• Real-time suggestions
-• Built with Flutter and Riverpod for reactive UI
+- Biology-first approach using arXiv Quantitative Biology (q-bio)
+- Multi-select category filtering using checkboxes
+- Smart search by author, title, keywords, and subject
+- Real-time suggestions
+- Built with Flutter and Riverpod for reactive UI
 
 ## Supported Categories
-• Biomolecules (q-bio.BM)
-• Cell Behavior (q-bio.CB)
-• Genomics (q-bio.GN)
-• Neurons & Cognition (q-bio.NC)
-• Other Quantitative Biology (q-bio.OQ)
-• Populations & Evolution (q-bio.PE)
-• Quantitative Methods (q-bio.QM)
-• Subcellular Processes (q-bio.SP)
-• Tissues & Organs (q-bio.TO)
+- Biomolecules (q-bio.BM)
+- Cell Behavior (q-bio.CB)
+- Genomics (q-bio.GN)
+- Neurons & Cognition (q-bio.NC)
+- Other Quantitative Biology (q-bio.OQ)
+- Populations & Evolution (q-bio.PE)
+- Quantitative Methods (q-bio.QM)
+- Subcellular Processes (q-bio.SP)
+- Tissues & Organs (q-bio.TO)
 
 ## Architecture
 ```plaintext
